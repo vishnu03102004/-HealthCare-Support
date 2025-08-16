@@ -116,4 +116,6 @@ Future-ready design for Flask/Django + Database integration
 
 Patient–Doctor–Admin conceptual architecture
  This system can be showcased as a healthcare web application project with scope for real-time telemedicine integration, database connectivity, and dashboards for Admin, Doctor, and Patient modules.
+
+
 Contributor MUKKALA VISHNU VARDHAN REDDY
